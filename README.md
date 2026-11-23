@@ -1,6 +1,6 @@
 # EV Charging Station Utilization & Idle-Time Hogging Analysis
 
-!(dashboard_preview.png)
+![Power BI Dashboard Preview](dashboard%20preview.png)
 
 ## Project Overview
 As electric vehicle (EV) adoption grows, drivers frequently face long queues at public and workplace charging hubs. However, charger shortages are often driven by **"idle hogging"**—vehicles remaining plugged in long after battery charging finishes—rather than genuine energy demand.
