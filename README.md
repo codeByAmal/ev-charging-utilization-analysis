@@ -3,7 +3,7 @@
 ![Power BI Dashboard Preview](dashboard%20preview.png)
 
 ## Project Overview
-As electric vehicle (EV) adoption grows, drivers frequently face long queues at public and workplace charging hubs. However, charger shortages are often driven by **"idle hogging"**—vehicles remaining plugged in long after battery charging finishes—rather than genuine energy demand.
+As electric vehicle (EV) adoption grows, drivers frequently face long queues at public and workplace charging hubs. However, charger shortages are often driven by **"idle hogging"** vehicles remaining plugged in long after battery charging finishes—rather than genuine energy demand.
 
 This end-to-end data analytics project analyzes **2,026 real-world physical charging logs** across **51 charging bays** from the **Caltech Adaptive Charging Network (ACN)** in Pasadena, California. Using **Python (Pandas, NumPy)** for edge-case data engineering and **Microsoft Power BI Desktop (DAX)** for executive visualization, this study quantifies post-charge idle waste, isolates peak commuter bottlenecks, and proposes targeted turnover policies.
 
